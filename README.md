@@ -7,11 +7,11 @@ I'm a student of Data Science/ Data Analysis.
 
 
 ## 🛠 Skills
-Python and SQL
+SQl | Sheets/Excel | Power BI | Tableau
 
 
 
-🧠 I'm currently learning Data Science, with Python, SQL and JupyterLab
+🧠 I'm currently learning Data Analysis
 
 
 
