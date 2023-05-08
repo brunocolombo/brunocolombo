@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Sou um estudante de Data Science/ Data Analysis.
+Trabalho atualmente com  Análise de Dados/Data Analysis.
 
 
 ## 🛠 Skills
