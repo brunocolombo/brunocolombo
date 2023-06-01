@@ -3,15 +3,13 @@
 
 
 ## 🚀 About Me
-Trabalho atualmente com  Análise de Dados/Data Analysis.
+Trabalho atualmente com Análise de Dados/Data Analysis.
 
 
 ## 🛠 Skills
-SQl | Sheets/Excel | Power BI | Tableau
+SQL | Google Sheets/Excel | Power BI | Tableau | Análise de Dados
 
 
 
 🧠 Eu estou aprendendo Data Analysis atualmente.
-
-
 
